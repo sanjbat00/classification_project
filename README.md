@@ -39,7 +39,6 @@ website-classification-ml/
 │   └── app.py
 │
 ├── requirements.txt
-└── README.md
  Exploratory Data Analysis
 Checked for missing values and handled appropriately
 Analyzed feature distributions and correlations
@@ -88,6 +87,3 @@ The best-performing model is saved using joblib:
 
 A simple web app is built using Streamlit for real-time predictions.
 
-
-
-streamlit run app/app.py
